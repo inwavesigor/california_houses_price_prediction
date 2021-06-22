@@ -1,4 +1,6 @@
-# hands_on_ML
+# California Houses Price Prediction
+
+Dataset: California Housing Prices (https://www.kaggle.com/camnugent/california-housing-prices)
 
 ### End-to-end Machine Learning Project
 
@@ -10,5 +12,3 @@
 6. Fine-tune your model
 7. Present your solution
 8. Lauch, monitor and maintain your system
-
-Dataset: California Housing Prices (https://www.kaggle.com/camnugent/california-housing-prices)
